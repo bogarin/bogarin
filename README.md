@@ -1,5 +1,5 @@
 # Hi, I am Jose Ramón Bogarin Valenzuela (bogarin)
-😄 tech fanatic, jr developer, jr DevOps
+😄 tech fanatic, jr developer and jr DevOps
 
 <!--
 **bogarin/bogarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

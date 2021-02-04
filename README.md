@@ -1,10 +1,14 @@
+
 # Hi, I am Jose Ramón Bogarin Valenzuela (bogarin)
+[![](https://vistr.dev/badge?repo=bogarin.bogarin&corners=square)](https://github.com/Elfocrash/vistr.dev)
+[![](https://img.shields.io/badge/-@bogarin-%23181717?style=flat-square&logo=github)](https://github.com/bogarin)
+
 😄 tech fanatic, jr developer and jr DevOps
-[![](https://vistr.dev/badge?repo=bogarin.bogarin&corners=square)]
-[![](https://github-readme-stats.vercel.app/api?username=bogarin&show_icons=true&theme=radical)]
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=bogarin&theme=radical)]
 
 
+[![](https://github-readme-stats.vercel.app/api?username=bogarin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=bogarin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bogarin/bogarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

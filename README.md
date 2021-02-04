@@ -1,5 +1,9 @@
 # Hi, I am Jose Ramón Bogarin Valenzuela (bogarin)
 😄 tech fanatic, jr developer and jr DevOps
+[![](https://vistr.dev/badge?repo=bogarin.bogarin&corners=square)]
+[![](https://github-readme-stats.vercel.app/api?username=bogarin&show_icons=true&theme=radical)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=bogarin&theme=radical)]
+
 
 <!--
 **bogarin/bogarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

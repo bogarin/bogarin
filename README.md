@@ -1,5 +1,5 @@
 
-# Hi, I am Jose Ramón Bogarin Valenzuela (bogarin)
+# Hi, I am Jose Ramón Bogarin Valenzuela (jrbogarin)
 [![](https://vistr.dev/badge?repo=bogarin.bogarin&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://img.shields.io/badge/-@bogarin-%23181717?style=flat-square&logo=github)](https://github.com/bogarin)
 

@@ -3,7 +3,7 @@
 [![](https://vistr.dev/badge?repo=bogarin.bogarin&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://img.shields.io/badge/-@bogarin-%23181717?style=flat-square&logo=github)](https://github.com/bogarin)
 
-😄 tech fanatic, jr Software Engineer ,jr est Engineer and jr DevOps
+😄 tech fanatic, jr Software Engineer ,jr test Engineer and jr DevOps
 
 
 [![](https://github-readme-stats.vercel.app/api?username=bogarin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 

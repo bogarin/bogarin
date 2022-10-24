@@ -5,6 +5,7 @@
 
 😄 tech fanatic, jr Software Engineer ,jr test Engineer and jr DevOps
 
+[![@bogarin's Holopin board](https://holopin.me/bogarin)](https://holopin.io/@bogarin)
 
 [![](https://github-readme-stats.vercel.app/api?username=bogarin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 

@@ -42,8 +42,22 @@
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jr-bogarin)
 
+###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tokercuba&unique={true|1|on|yes})
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/tokercuba">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tokercuba&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bogarin/bogarin/output/snake.svg" alt="Snake animation" />
+
+
 
 [![@bogarin's Holopin board](https://holopin.me/bogarin)](https://holopin.io/@bogarin)
 <!--

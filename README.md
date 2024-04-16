@@ -42,6 +42,16 @@
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jr-bogarin)
 
+
+
+<img src="https://raw.githubusercontent.com/bogarin/bogarin/output/snake.svg" alt="Snake animation" />
+
+
+
+
+[![@bogarin's Holopin board](https://holopin.me/bogarin)](https://holopin.io/@bogarin)
+
+
 ###
 
 <br clear="both">
@@ -53,13 +63,6 @@
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bogarin/bogarin/output/snake.svg" alt="Snake animation" />
-
-
-
-[![@bogarin's Holopin board](https://holopin.me/bogarin)](https://holopin.io/@bogarin)
 <!--
 **bogarin/bogarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

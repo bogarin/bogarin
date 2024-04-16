@@ -43,6 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jr-bogarin)
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tokercuba&count={count})
 
 [![@bogarin's Holopin board](https://holopin.me/bogarin)](https://holopin.io/@bogarin)
 <!--

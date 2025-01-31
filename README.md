@@ -36,8 +36,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
 
 ### 🚀 **CI/CD & DevOps**
-![Jenkins](https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kong Gateway](https://img.shields.io/badge/Kong_Gateway-%230A0FFF.svg?style=for-the-badge&logo=kong&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230A0FFF.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
@@ -68,6 +69,7 @@
 
 🚀 **Siempre en busca de nuevos retos y aprendizaje continuo. ¡Colaboremos!** 💡  
 📩 **No dudes en contactarme para discutir proyectos, oportunidades o simplemente hablar sobre tecnología.**  
+
 
 <!--
 **bogarin/bogarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

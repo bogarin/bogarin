@@ -1,6 +1,6 @@
 
 # Hola!! 👋
-## Soy Jose Ramón Bogarin (jrbogarin) programador, estudiante, acomulador de experiencia y tutor.
+## Soy Jose Ramón Bogarin programador, estudiante, acomulador de experiencia y tutor.
 ### 😄 tech fanatic, jr Software Engineer ,jr test Engineer and jr DevOps 
 [![](https://img.shields.io/badge/-@bogarin-%23181717?style=flat-square&logo=github)](https://github.com/bogarin)
 
@@ -42,7 +42,10 @@
 ## Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr-bogarin/)
 
-
+📧 **Correo:** [bogarin.solteclog@gmail.com](mailto:bogarin.solteclog@gmail.com)  
+🌐 **Web:** [soltecbog.vercel.app](https://soltecbog.vercel.app/)
+🌐 **Web Profile:** [bogarin.github.io](https://bogarin.github.io/)
+🐙 **GitHub:** [@bogarin](https://github.com/bogarin)  
 
 <img src="https://raw.githubusercontent.com/bogarin/bogarin/output/snake.svg" alt="Snake animation" />
 

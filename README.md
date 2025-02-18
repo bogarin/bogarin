@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **José Ramón Bogarin**  
+# 👋 ¡Hola! Soy **Jose Ramón Bogarin**  
 ## 💻 Programador | 📚 Estudiante | 🏗️ Acumulador de Experiencia | 🎓 Tutor  
 ### 🚀 Tech Fanatic | 🛠️ Jr Software Engineer | 🧪 Jr Test Engineer | 🌐 Jr DevOps  
 
